@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/bin/Debug/net6.0/H01-KauwgomAutomaat
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/bin/Debug/net6.0/H01-KauwgomAutomaat.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/bin/Debug/net6.0/H01-KauwgomAutomaat.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/bin/Debug/net6.0/H01-KauwgomAutomaat.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/bin/Debug/net6.0/H01-KauwgomAutomaat.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/refint/H01-KauwgomAutomaat.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/H01-KauwgomAutomaat.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-KauwgomAutomaat/obj/Debug/net6.0/ref/H01-KauwgomAutomaat.dll

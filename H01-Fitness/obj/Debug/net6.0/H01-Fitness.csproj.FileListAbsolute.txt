@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/bin/Debug/net6.0/H01-Fitness
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/bin/Debug/net6.0/H01-Fitness.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/bin/Debug/net6.0/H01-Fitness.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/bin/Debug/net6.0/H01-Fitness.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/bin/Debug/net6.0/H01-Fitness.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/refint/H01-Fitness.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/H01-Fitness.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/Debug/net6.0/ref/H01-Fitness.dll
