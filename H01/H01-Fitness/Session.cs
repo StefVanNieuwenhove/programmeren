@@ -3,22 +3,34 @@ namespace H01_Fitness;
 public class Session {
 
     private int _sessieId;
-    private DateTime _date { get; set; }
+    private DateTime _date;
     private int _customerId;
     private int _sessionTime;
     private double _averageSpeed;
-    private int _sequenceId;
-    private int _sequenceDuration;
-    private double _sequenceSpeed;
+    public List<Sequence> Sequences { get; set; }
+
+    public Session(int sessionId, DateTime date, int customerId, int sessionTime, double averageSpeed) {
+        SessionId = sessionId;
+        Date = date;
+        CustomerId = customerId;
+        SessionTime = sessionTime;
+        AverageSpeed = averageSpeed;
+        Sequences = new();
+    }
 
     #region properties
-    public int SessieId {
+    public int SessionId {
         get { return _sessieId; }
         set {
             if (value <= 0)
                 throw new ArgumentOutOfRangeException(("Error sessionId"));
             else _sessieId = value;
         }
+    }
+
+    public DateTime Date {
+        get { return _date; }
+        set { _date = value; }
     }
 
     public int CustomerId {
@@ -55,40 +67,22 @@ public class Session {
             else _averageSpeed = value;
         }
     }
-
-    public int SequenceId {
-        get { return _sequenceId; }
-        set {
-            if (value <= 0)
-                throw new ArgumentOutOfRangeException(("Error sequenceId"));
-            else _sequenceId = value;
-        }
-    }
-
-    /// <summary>
-    /// The duration of the sequence in seconds
-    /// </summary>
-    /// <exception cref="ArgumentOutOfRangeException"></exception>
-    public int SequenceDuration {
-        get { return _sequenceDuration; }
-        set {
-            if (value <= 5 || value >= 60 * 60 * 3)
-                throw new ArgumentOutOfRangeException(("Error sequenceDuration"));
-            else _sequenceDuration = value;
-        }
-    }
-
-    /// <summary>
-    /// Speed of the sequence in km/h
-    /// </summary>
-    /// <exception cref="ArgumentOutOfRangeException"></exception>
-    public double SequenceSpeed {
-        get { return _sequenceSpeed; }
-        set {
-            if (value <= 5 || value > 22)
-                throw new ArgumentOutOfRangeException(("Error sequenceSpeed"));
-            else _sequenceSpeed = value;
-        }
-    }
     #endregion
+
+    public override bool Equals(object? obj) {
+        return obj is Session session && session.SessionId == this.SessionId;
+    }
+
+    public override int GetHashCode() {
+        return HashCode.Combine(SessionId);
+    }
+
+    public override string ToString() {
+        string output = $"Sessie: {SessionId}, {_date}, KLant: {CustomerId}, Duur: {SessionTime}, snelheid: {AverageSpeed}\n";
+        foreach (Sequence sequence in Sequences) {
+            output += sequence.ToString();
+        }
+
+        return output;
+    }
 }

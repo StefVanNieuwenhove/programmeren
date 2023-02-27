@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/H01-Fitness.csproj",
+      "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/H01-Fitness.csproj",
       "projectName": "H01-Fitness",
-      "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/H01-Fitness.csproj",
+      "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/H01-Fitness.csproj",
       "packagesPath": "/Users/stefvannieuwenhove/.nuget/packages/",
-      "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Fitness/obj/",
+      "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stefvannieuwenhove/.nuget/NuGet/NuGet.Config"
