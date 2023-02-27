@@ -1,3 +1,3 @@
 # Programmeren Gevorderd - Graduaat programmeren HoGent
 
-[/docs]
+[Documents](./docs)
