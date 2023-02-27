@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Veelhoeken/H01-Veelhoeken.csproj",
+      "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/H01-Veelhoeken.csproj",
       "projectName": "H01-Veelhoeken",
-      "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Veelhoeken/H01-Veelhoeken.csproj",
+      "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/H01-Veelhoeken.csproj",
       "packagesPath": "/Users/stefvannieuwenhove/.nuget/packages/",
-      "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01-Veelhoeken/obj/",
+      "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stefvannieuwenhove/.nuget/NuGet/NuGet.Config"

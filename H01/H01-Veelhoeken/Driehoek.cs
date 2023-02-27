@@ -2,29 +2,31 @@ namespace H01_Veelhoeken;
 
 public class Driehoek {
 
-    private int _zijdeA;
-    private int _zijdeB;
-    private int _zijdeC;
+    private double _zijdeA;
+    private double _zijdeB;
+    private double _zijdeC;
 
-    public Driehoek() {
-
+    public Driehoek(double a, double b, double c) {
+        ZijdeA = a;
+        ZijdeB = b;
+        ZijdeC = c;
     }
 
-    public int ZijdeA {
+    public double ZijdeA {
         init {
             if (value <= 0)
                 _zijdeA = 1;
         }
     }
 
-    public int ZijdeB {
+    public double ZijdeB {
         init {
             if (value <= 0)
                 _zijdeB = 1;
         }
     }
 
-    public int ZijdeC {
+    public double ZijdeC {
         init {
             if (value <= 0)
                 _zijdeC = 1;

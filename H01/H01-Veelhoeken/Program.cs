@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using H01_Veelhoeken;
 
-Console.WriteLine("Hello, World!");
+VeelhoekApp app = new();
+app.Main();

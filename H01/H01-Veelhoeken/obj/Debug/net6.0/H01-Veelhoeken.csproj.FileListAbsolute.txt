@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/bin/Debug/net6.0/H01-Veelhoeken
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/bin/Debug/net6.0/H01-Veelhoeken.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/bin/Debug/net6.0/H01-Veelhoeken.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/bin/Debug/net6.0/H01-Veelhoeken.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/bin/Debug/net6.0/H01-Veelhoeken.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/refint/H01-Veelhoeken.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/H01-Veelhoeken.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Veelhoeken/obj/Debug/net6.0/ref/H01-Veelhoeken.dll
