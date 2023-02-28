@@ -1,3 +1,4 @@
 # Programmeren Gevorderd - Graduaat programmeren HoGent
 
-[Documents](Docs)
+- [Documents](/Docs)
+- [H01](/H01)
