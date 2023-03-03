@@ -2,6 +2,7 @@
 
 - [Documents](/Docs)
   - [H01](/Docs/H01)
+  - [H02](/Docs/H02)
 - [H01-Klassen_en_objecten](/H01)
   - [H01-Fiets](/H01/H01-Fiets)
   - [H01-Fitness](/H01/H01-Fitness)
