@@ -8,13 +8,6 @@
   - [H01-KauwgomAutomaat](/H01/H01-KauwgomAutomaat)
   - [H01-Rekening](/H01/H01-Rekening)
   - [H01-Veelhoeken](/H01/H01-Veelhoeken)
-- [H02-DCD](/H02)
-- [H03-3_lagen_model](/H03)
-- [H04-Pijlers_van_OOP](/H04)
-- [H05-Polymorfisme_en_Interfaces](/H05)
-- [H06-Exception](/H06)
-- [H07-UnitTesting](/H07)
-- [H08-Delegates_en_Lamdbas](/H08)
-- [H09-Collections](/H09)
-- [H10-ADO.NET](/H10)
-- [H11-WPF](/H11)
+- [H02-Inheritance_en_Polymorfisme](/H02)
+
+
