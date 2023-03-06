@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/Cui.csproj": {}
+  },
+  "projects": {
+    "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/Cui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/Cui.csproj",
+        "projectName": "Cui",
+        "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/Cui.csproj",
+        "packagesPath": "/Users/stefvannieuwenhove/.nuget/packages/",
+        "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stefvannieuwenhove/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Domein/Domein.csproj": {
+                "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Domein/Domein.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Domein/Domein.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Domein/Domein.csproj",
+        "projectName": "Domein",
+        "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Domein/Domein.csproj",
+        "packagesPath": "/Users/stefvannieuwenhove/.nuget/packages/",
+        "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Domein/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stefvannieuwenhove/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
