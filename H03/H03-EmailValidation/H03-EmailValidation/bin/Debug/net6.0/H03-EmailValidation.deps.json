@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "H03-EmailValidation/1.0.0": {
+        "runtime": {
+          "H03-EmailValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H03-EmailValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

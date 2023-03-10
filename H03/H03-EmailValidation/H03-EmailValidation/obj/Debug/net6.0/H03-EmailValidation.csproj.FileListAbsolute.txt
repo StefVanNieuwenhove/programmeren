@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/bin/Debug/net6.0/H03-EmailValidation
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/bin/Debug/net6.0/H03-EmailValidation.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/bin/Debug/net6.0/H03-EmailValidation.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/bin/Debug/net6.0/H03-EmailValidation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/bin/Debug/net6.0/H03-EmailValidation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/refint/H03-EmailValidation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/H03-EmailValidation.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-EmailValidation/H03-EmailValidation/obj/Debug/net6.0/ref/H03-EmailValidation.dll

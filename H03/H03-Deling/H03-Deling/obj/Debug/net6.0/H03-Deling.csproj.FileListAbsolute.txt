@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/bin/Debug/net6.0/H03-Deling
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/bin/Debug/net6.0/H03-Deling.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/bin/Debug/net6.0/H03-Deling.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/bin/Debug/net6.0/H03-Deling.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/bin/Debug/net6.0/H03-Deling.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/refint/H03-Deling.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/H03-Deling.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H03/H03-Deling/H03-Deling/obj/Debug/net6.0/ref/H03-Deling.dll
