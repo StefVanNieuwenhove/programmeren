@@ -1,17 +1,17 @@
 ﻿
 
 Console.Write("Geef getal 1: ");
-int getal1 = Convert.ToInt32(Console.ReadLine());
+decimal getal1 = Convert.ToDecimal(Console.ReadLine());
 Console.Write("Geef getal 2: ");
-int getal2 = Convert.ToInt32(Console.ReadLine());
+decimal getal2 = Convert.ToDecimal(Console.ReadLine());
 
 try {
-    int resultaat = getal1 / getal2;
+    decimal resultaat = getal1 / getal2;
     Console.WriteLine("Resultaat: " + resultaat);
 }
 catch (DivideByZeroException ex) {
-    Console.WriteLine("Je kan niet delen door nul!");
+    throw new DivideByZeroException("Je kan niet delen door 0!");
 }
 catch (Exception ex) {
-    Console.WriteLine("Er is een fout opgetreden!");
+    Console.WriteLine("Er is een fout opgetreden: " + ex.Message);
 }
