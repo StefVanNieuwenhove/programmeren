@@ -1,9 +1,14 @@
 namespace Domein; 
 
-public class Rekening {
+public abstract class Rekening {
 
     private long _rekeningNr;
     private string _houder;
+
+    public Rekening() {
+        RekeningNr = 0L;
+        Houder = "Onbekend";
+    }
 
     public Rekening(long rekeningNr, string houder)
     {
@@ -40,7 +45,7 @@ public class Rekening {
 
     private long RekeningNr
     {
-        set
+        init
         {
             ControleerRekeningNr(value);
             this._rekeningNr = value;
@@ -59,7 +64,7 @@ public class Rekening {
         long rest = RekeningNr % 100;
         long midden7 = (RekeningNr / 100) % 10000000;
 
-        return string.Format($"{"Rekening"}{" met rekeningnummer"} {eerste3:D3}-{midden7:D7}-{rest:D2}\n" +
+        return string.Format($"{this.GetType().Name}{" met rekeningnummer"} {eerste3:D3}-{midden7:D7}-{rest:D2}\n" +
                              $"{"staat op naam van"} {Houder}\n{"en bevat "}{Saldo:F2} {"euro"}");
     }
 

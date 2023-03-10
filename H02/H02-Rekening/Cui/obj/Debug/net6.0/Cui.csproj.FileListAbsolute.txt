@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/bin/Debug/net6.0/Cui.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/bin/Debug/net6.0/Cui.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/bin/Debug/net6.0/Cui.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/bin/Debug/net6.0/Domein.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/bin/Debug/net6.0/Domein.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/refint/Cui.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/Cui.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H02/H02-Rekening/Cui/obj/Debug/net6.0/ref/Cui.dll

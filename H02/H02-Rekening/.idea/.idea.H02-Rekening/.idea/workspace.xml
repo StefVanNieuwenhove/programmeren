@@ -5,56 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="046b5bde-bf10-4748-8ddd-cf61f2477863" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.H02.dir/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.H02.dir/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.H02.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.H02.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.H02.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.H02.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/Cui.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Cui.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Cui.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Cui.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cui/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/Domein.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/Rekening.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Domein.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Domein.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/Domein.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domein/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/bin/Debug/net6.0/Cui.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/bin/Debug/net6.0/Cui.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/bin/Debug/net6.0/Domein.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domein/SpaarRekening.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domein/bin/Debug/net6.0/Domein.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domein/bin/Debug/net6.0/Domein.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domein/obj/Debug/net6.0/Domein.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.H02-Rekening/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cui/RekeningApplicatie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Cui/RekeningApplicatie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cui/obj/Debug/net6.0/Cui.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domein/Rekening.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domein/Rekening.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Cui/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/WC_Rekening_Start/Cui/RekeningApplicatie.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/WC_Rekening_Start/Domein/Rekening.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2MejOwdsxJVKYDaXBqV1bIbCkhD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -80,7 +62,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Static Method.Cui.RekeningApplicatie.Start">
     <configuration name="Cui" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -93,12 +75,37 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_KIND" value="Unloaded" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Cui.RekeningApplicatie.Start" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cui/bin/Debug/net6.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Cui/Cui.csproj" />
+      <option name="PROJECT_TFM" value="net6.0" />
+      <option name="CLASS_NAME" value="Cui.RekeningApplicatie" />
+      <option name="METHOD_NAME" value="Start" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Cui" />
+      <item itemvalue=".NET Static Method.Cui.RekeningApplicatie.Start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.Cui.RekeningApplicatie.Start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -108,16 +115,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678134920880</updated>
-      <workItem from="1678134921616" duration="364000" />
+      <workItem from="1678134921616" duration="1177000" />
     </task>
+    <task id="LOCAL-00001" summary="Start H02-Rekening">
+      <created>1678135512209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678135512209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Start H02-Rekening" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start H02-Rekening" />
   </component>
 </project>
