@@ -15,5 +15,5 @@ try {
         throw new EmailValidationException("Email is not valid");
     }
 } catch (EmailValidationException e) {
-    Console.WriteLine(e.Message);
+    throw new EmailValidationException(e.Message);
 }
