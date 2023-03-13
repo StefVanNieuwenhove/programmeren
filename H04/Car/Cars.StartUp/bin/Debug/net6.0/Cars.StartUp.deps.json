@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cars.StartUp/1.0.0": {
+        "dependencies": {
+          "Cars.Domain": "1.0.0",
+          "Cars.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Cars.StartUp.dll": {}
+        }
+      },
+      "Cars.Domain/1.0.0": {
+        "runtime": {
+          "Cars.Domain.dll": {}
+        }
+      },
+      "Cars.Persistence/1.0.0": {
+        "dependencies": {
+          "Cars.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cars.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cars.StartUp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cars.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cars.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

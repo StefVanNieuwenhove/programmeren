@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/bin/Debug/net6.0/Cars.Presentation.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/bin/Debug/net6.0/Cars.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/bin/Debug/net6.0/Cars.Presentation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/bin/Debug/net6.0/Cars.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/bin/Debug/net6.0/Cars.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/refint/Cars.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/Cars.Presentation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Presentation/obj/Debug/net6.0/ref/Cars.Presentation.dll

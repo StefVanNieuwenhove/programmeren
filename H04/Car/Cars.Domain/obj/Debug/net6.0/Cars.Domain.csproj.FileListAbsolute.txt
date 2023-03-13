@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/bin/Debug/net6.0/Cars.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/bin/Debug/net6.0/Cars.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/bin/Debug/net6.0/Cars.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/refint/Cars.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/Cars.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Domain/obj/Debug/net6.0/ref/Cars.Domain.dll

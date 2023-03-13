@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/bin/Debug/net6.0/Cars.Persistence.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/bin/Debug/net6.0/Cars.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/bin/Debug/net6.0/Cars.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/bin/Debug/net6.0/Cars.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/bin/Debug/net6.0/Cars.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/refint/Cars.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/Cars.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/Car/Cars.Persistence/obj/Debug/net6.0/ref/Cars.Persistence.dll
