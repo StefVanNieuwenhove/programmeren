@@ -16,6 +16,12 @@
   - [H03-Deling](/H03/H03-Deling)
   - [H03-EmailValidation](/H03/H03-EmailValidation)
 - [H04-3_Tier_Model](/H04)
+  - [H04-DierenQuiz](/H04/H04-DierenQuiz)
+  - [H04-Leeftijd](/H04/H04-Leeftijd)
+  - [H04-Pokédex](/H04/H04-Pokédex)
+  - [H04-Car](/H04/Car)
+- [H05-xUnit](/H05)
+  - [H05-Restaurant](/H05/H05-Restaurant)
   
 
 
