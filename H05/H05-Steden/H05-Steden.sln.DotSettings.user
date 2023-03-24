@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1019eb4c_002D362b_002D4db4_002D86c2_002Da40c9baf0bb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Parser_CoreectValue_StedenEnum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::2407B45E-C3C6-4283-9B4C-EC8270857B2C::net6.0::Steden.Test.EnumParserTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=33a3e1f3_002D5234_002D4ecf_002Dbc6c_002Da5cc36702e14/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parser_Parse_True" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::2407B45E-C3C6-4283-9B4C-EC8270857B2C::net6.0::Steden.Test.EnumParserTest.Parser_Parse_True&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9858f4c9_002D10ca_002D494c_002Da988_002D0906b545b234/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parser_CoreectValue_StedenEnum #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::2407B45E-C3C6-4283-9B4C-EC8270857B2C::net6.0::Steden.Test.EnumParserTest.Parser_CoreectValue_StedenEnum&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

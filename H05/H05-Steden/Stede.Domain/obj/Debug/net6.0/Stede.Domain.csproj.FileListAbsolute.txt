@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/bin/Debug/net6.0/Stede.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/bin/Debug/net6.0/Stede.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/bin/Debug/net6.0/Stede.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/refint/Stede.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/Stede.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Steden/Stede.Domain/obj/Debug/net6.0/ref/Stede.Domain.dll

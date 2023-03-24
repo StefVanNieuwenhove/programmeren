@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/bin/Debug/net6.0/Restaurant.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/bin/Debug/net6.0/Restaurant.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/bin/Debug/net6.0/Restaurant.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/refint/Restaurant.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/Restaurant.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Restaurant/Restaurant.Domain/obj/Debug/net6.0/ref/Restaurant.Domain.dll
