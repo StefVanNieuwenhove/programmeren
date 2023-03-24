@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pokedex.Presentation/1.0.0": {
+        "dependencies": {
+          "Pokedex.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pokedex.Presentation.dll": {}
+        }
+      },
+      "Pokedex.Domain/1.0.0": {
+        "runtime": {
+          "Pokedex.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokedex.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pokedex.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

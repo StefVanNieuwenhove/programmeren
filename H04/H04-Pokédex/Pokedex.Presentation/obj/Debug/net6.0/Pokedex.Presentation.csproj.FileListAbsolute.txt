@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/bin/Debug/net6.0/Pokedex.Presentation.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/bin/Debug/net6.0/Pokedex.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/bin/Debug/net6.0/Pokedex.Presentation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/bin/Debug/net6.0/Pokedex.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/bin/Debug/net6.0/Pokedex.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/refint/Pokedex.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/Pokedex.Presentation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/obj/Debug/net6.0/ref/Pokedex.Presentation.dll

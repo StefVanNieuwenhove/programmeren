@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/bin/Debug/net6.0/Pokedex.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/bin/Debug/net6.0/Pokedex.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/bin/Debug/net6.0/Pokedex.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/refint/Pokedex.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/Pokedex.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Domain/obj/Debug/net6.0/ref/Pokedex.Domain.dll

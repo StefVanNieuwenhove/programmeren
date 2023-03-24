@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pokedex.StartUp/1.0.0": {
+        "dependencies": {
+          "Pokedex.Persistence": "1.0.0",
+          "Pokedex.Presentation": "1.0.0"
+        },
+        "runtime": {
+          "Pokedex.StartUp.dll": {}
+        }
+      },
+      "Pokedex.Domain/1.0.0": {
+        "runtime": {
+          "Pokedex.Domain.dll": {}
+        }
+      },
+      "Pokedex.Persistence/1.0.0": {
+        "dependencies": {
+          "Pokedex.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pokedex.Persistence.dll": {}
+        }
+      },
+      "Pokedex.Presentation/1.0.0": {
+        "dependencies": {
+          "Pokedex.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pokedex.Presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokedex.StartUp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pokedex.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pokedex.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pokedex.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

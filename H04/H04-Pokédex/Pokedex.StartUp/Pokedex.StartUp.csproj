@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Pokedex.Persistence\Pokedex.Persistence.csproj" />
+      <ProjectReference Include="..\Pokedex.Presentation\Pokedex.Presentation.csproj" />
+    </ItemGroup>
+
 </Project>

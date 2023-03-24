@@ -1,11 +1,67 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Pokedex.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Pokedex.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pokedex.Domain.dll": {}
+        }
+      },
+      "Pokedex.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Pokedex.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pokedex.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pokedex.Persistence.dll": {}
+        }
+      },
+      "Pokedex.Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Pokedex.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pokedex.Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pokedex.Presentation.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Pokedex.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Pokedex.Domain/Pokedex.Domain.csproj",
+      "msbuildProject": "../Pokedex.Domain/Pokedex.Domain.csproj"
+    },
+    "Pokedex.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Pokedex.Persistence/Pokedex.Persistence.csproj",
+      "msbuildProject": "../Pokedex.Persistence/Pokedex.Persistence.csproj"
+    },
+    "Pokedex.Presentation/1.0.0": {
+      "type": "project",
+      "path": "../Pokedex.Presentation/Pokedex.Presentation.csproj",
+      "msbuildProject": "../Pokedex.Presentation/Pokedex.Presentation.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Pokedex.Persistence >= 1.0.0",
+      "Pokedex.Presentation >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/stefvannieuwenhove/.nuget/packages/": {}
@@ -32,7 +88,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/Pokedex.Persistence.csproj": {
+              "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/Pokedex.Persistence.csproj"
+            },
+            "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/Pokedex.Presentation.csproj": {
+              "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Presentation/Pokedex.Presentation.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

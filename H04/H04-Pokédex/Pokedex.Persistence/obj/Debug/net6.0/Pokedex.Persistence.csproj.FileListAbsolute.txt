@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/bin/Debug/net6.0/Pokedex.Persistence.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/bin/Debug/net6.0/Pokedex.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/bin/Debug/net6.0/Pokedex.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/bin/Debug/net6.0/Pokedex.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/bin/Debug/net6.0/Pokedex.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/refint/Pokedex.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/Pokedex.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H04/H04-Pokédex/Pokedex.Persistence/obj/Debug/net6.0/ref/Pokedex.Persistence.dll
