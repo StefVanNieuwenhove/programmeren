@@ -1,8 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Period.Domain", "Period.Domain\Period.Domain.csproj", "{A087E00A-343B-40E6-9BD0-62BE717E3293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Period.Test", "Period.Test\Period.Test.csproj", "{C2FDBCB2-A1AF-4CAD-A167-DB45505187F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A087E00A-343B-40E6-9BD0-62BE717E3293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A087E00A-343B-40E6-9BD0-62BE717E3293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A087E00A-343B-40E6-9BD0-62BE717E3293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A087E00A-343B-40E6-9BD0-62BE717E3293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FDBCB2-A1AF-4CAD-A167-DB45505187F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FDBCB2-A1AF-4CAD-A167-DB45505187F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FDBCB2-A1AF-4CAD-A167-DB45505187F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FDBCB2-A1AF-4CAD-A167-DB45505187F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

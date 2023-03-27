@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/bin/Debug/net6.0/Period.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/bin/Debug/net6.0/Period.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/bin/Debug/net6.0/Period.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/refint/Period.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/Period.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-period/Period.Domain/obj/Debug/net6.0/ref/Period.Domain.dll

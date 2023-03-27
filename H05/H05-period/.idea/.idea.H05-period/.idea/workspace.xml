@@ -1,8 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="ChangeListManager">
+    <list default="true" id="78bdc88e-d3b0-4b3f-9bd4-ec0e62d86462" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../H05-Pythagoras/H05-Pythagoras.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/Model/Interval.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/Period.Domain.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Period.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Period.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Period.Domain.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/Period.Test.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/Usings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Period.Test.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Period.Test.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Period.Test.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Period.Test/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.H05-period/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.H05-period/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05-period.sln" beforeDir="false" afterPath="$PROJECT_DIR$/H05-period.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NSRlKgUaENfpnGVNGt0n8txGVo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "RiderCSharpLiveTemplatesSettingsId",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/stefvannieuwenhove/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/Users/stefvannieuwenhove/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/Users/stefvannieuwenhove/.local/share/Symbols/src"
+    ]
   }
-}</component>
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78bdc88e-d3b0-4b3f-9bd4-ec0e62d86462" name="Changes" comment="" />
+      <created>1679655647060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679655647060</updated>
+      <workItem from="1679655648365" duration="1068000" />
+      <workItem from="1679916727055" duration="2062000" />
+      <workItem from="1679919336737" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
 </project>

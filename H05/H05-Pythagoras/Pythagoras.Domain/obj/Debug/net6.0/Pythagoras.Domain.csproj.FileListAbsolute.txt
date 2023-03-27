@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/bin/Debug/net6.0/Pythagoras.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/bin/Debug/net6.0/Pythagoras.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/bin/Debug/net6.0/Pythagoras.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/refint/Pythagoras.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/Pythagoras.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-Pythagoras/Pythagoras.Domain/obj/Debug/net6.0/ref/Pythagoras.Domain.dll
