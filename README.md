@@ -22,6 +22,10 @@
   - [H04-Car](/H04/Car)
 - [H05-xUnit](/H05)
   - [H05-Restaurant](/H05/H05-Restaurant)
+  - [H05-Pythagoras](/H05/H05-Pythagoras)
+  - [H05-StringCalculator](/H05/H05-StringCalculator)
+  - [H05-Steden](/H05/HO5-Steden)
+  - [H05-Period](/H05/H05-period)
   
 
 
