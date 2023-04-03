@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78bdc88e-d3b0-4b3f-9bd4-ec0e62d86462" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../H05-Pythagoras/H05-Pythagoras.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/Model/Interval.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/Period.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Debug/net6.0/Period.Domain.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Period.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Period.Domain.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/Period.Domain.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/Period.Test.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/Usings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Debug/net6.0/Period.Test.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Period.Test.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Period.Test.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/Period.Test.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Period.Test/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.H05-period/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.H05-period/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H05-period.sln" beforeDir="false" afterPath="$PROJECT_DIR$/H05-period.sln" afterDir="false" />
-    </list>
+    <list default="true" id="78bdc88e-d3b0-4b3f-9bd4-ec0e62d86462" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +10,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2NSRlKgUaENfpnGVNGt0n8txGVo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -81,17 +46,47 @@
       <updated>1679655647060</updated>
       <workItem from="1679655648365" duration="1068000" />
       <workItem from="1679916727055" duration="2062000" />
-      <workItem from="1679919336737" duration="1030000" />
+      <workItem from="1679919336737" duration="6942000" />
     </task>
+    <task id="LOCAL-00001" summary="H05-period">
+      <created>1679928862424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679928862424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="H05-period" />
+    <option name="LAST_COMMIT_MESSAGE" value="H05-period" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Period.Test/IntervalTest.cs</url>
+          <line>10</line>
+          <properties documentPath="$PROJECT_DIR$/Period.Test/IntervalTest.cs" initialLine="10" containingFunctionPresentation="method 'Interval_ValidInterval_OverlapsBooleanTrue'">
+            <startOffsets>
+              <option value="337" />
+            </startOffsets>
+            <endOffsets>
+              <option value="338" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

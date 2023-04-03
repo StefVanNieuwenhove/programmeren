@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/bin/Debug/net6.0/Calculator.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/bin/Debug/net6.0/Calculator.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/bin/Debug/net6.0/Calculator.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/refint/Calculator.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/Calculator.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H05/H05-StringCalculator/Calculator.Domain/obj/Debug/net6.0/ref/Calculator.Domain.dll
