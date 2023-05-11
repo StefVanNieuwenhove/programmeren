@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wandel.Presentation/1.0.0": {
+        "dependencies": {
+          "Wandel.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wandel.Presentation.dll": {}
+        }
+      },
+      "Wandel.Domain/1.0.0": {
+        "runtime": {
+          "Wandel.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wandel.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wandel.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

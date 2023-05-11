@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/bin/Debug/net6.0/Product.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/bin/Debug/net6.0/Product.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/bin/Debug/net6.0/Product.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/refint/Product.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/Product.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-Product/Product.Domain/obj/Debug/net6.0/ref/Product.Domain.dll

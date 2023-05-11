@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/bin/Debug/net7.0/H08-Dataprocessor
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/bin/Debug/net7.0/H08-Dataprocessor.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/bin/Debug/net7.0/H08-Dataprocessor.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/bin/Debug/net7.0/H08-Dataprocessor.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/bin/Debug/net7.0/H08-Dataprocessor.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/refint/H08-Dataprocessor.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/H08-Dataprocessor.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Dataprocessor/H08-Dataprocessor/obj/Debug/net7.0/ref/H08-Dataprocessor.dll

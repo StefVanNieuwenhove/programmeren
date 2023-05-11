@@ -1,0 +1,12 @@
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\bin\Debug\net6.0\Airport.Domain.deps.json
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\bin\Debug\net6.0\Airport.Domain.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\bin\Debug\net6.0\Airport.Domain.pdb
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.csproj.AssemblyReference.cache
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.AssemblyInfoInputs.cache
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.AssemblyInfo.cs
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\refint\Airport.Domain.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\Airport.Domain.pdb
+C:\Users\ix\Desktop\Airport\Airport\Airport.Domain\obj\Debug\net6.0\ref\Airport.Domain.dll

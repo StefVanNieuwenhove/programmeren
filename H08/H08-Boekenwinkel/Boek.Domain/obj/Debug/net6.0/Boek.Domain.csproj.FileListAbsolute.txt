@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/bin/Debug/net6.0/Boek.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/bin/Debug/net6.0/Boek.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/bin/Debug/net6.0/Boek.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/refint/Boek.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/Boek.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Domain/obj/Debug/net6.0/ref/Boek.Domain.dll

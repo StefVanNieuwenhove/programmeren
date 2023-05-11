@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Airport.Domain\Airport.Domain.csproj" />
+    <ProjectReference Include="..\Airport.Persistence\Airport.Persistence.csproj" />
+    <ProjectReference Include="..\Airport.Presentation\Airport.Presentation.csproj" />
+  </ItemGroup>
+
+</Project>

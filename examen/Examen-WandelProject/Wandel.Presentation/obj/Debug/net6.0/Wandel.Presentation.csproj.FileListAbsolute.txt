@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/bin/Debug/net6.0/Wandel.Presentation.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/bin/Debug/net6.0/Wandel.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/bin/Debug/net6.0/Wandel.Presentation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/bin/Debug/net6.0/Wandel.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/bin/Debug/net6.0/Wandel.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/refint/Wandel.Presentation.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/Wandel.Presentation.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Wandel.Presentation/obj/Debug/net6.0/ref/Wandel.Presentation.dll

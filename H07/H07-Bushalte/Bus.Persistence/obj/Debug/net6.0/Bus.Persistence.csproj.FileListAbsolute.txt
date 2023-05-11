@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/bin/Debug/net6.0/Bus.Persistence.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/bin/Debug/net6.0/Bus.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/bin/Debug/net6.0/Bus.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/bin/Debug/net6.0/Bus.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/bin/Debug/net6.0/Bus.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/refint/Bus.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/Bus.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Persistence/obj/Debug/net6.0/ref/Bus.Persistence.dll

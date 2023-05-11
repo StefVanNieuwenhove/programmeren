@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/oefenen/Tesrt/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll

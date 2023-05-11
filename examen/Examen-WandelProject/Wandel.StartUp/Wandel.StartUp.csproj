@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>StartUp.Wandel</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Wandel.Domain\Wandel.Domain.csproj" />
+      <ProjectReference Include="..\Wandel.Persistence\Wandel.Persistence.csproj" />
+      <ProjectReference Include="..\Wandel.Presentation\Wandel.Presentation.csproj" />
+    </ItemGroup>
+
+</Project>

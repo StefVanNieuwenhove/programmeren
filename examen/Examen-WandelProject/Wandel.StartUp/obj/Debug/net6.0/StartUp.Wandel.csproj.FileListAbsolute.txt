@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/bin/Debug/net6.0/StartUp.Wandel
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/bin/Debug/net6.0/StartUp.Wandel.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/bin/Debug/net6.0/StartUp.Wandel.runtimeconfig.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/bin/Debug/net6.0/StartUp.Wandel.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/bin/Debug/net6.0/StartUp.Wandel.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/refint/StartUp.Wandel.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/StartUp.Wandel.genruntimeconfig.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/StartUp.Wandel/obj/Debug/net6.0/ref/StartUp.Wandel.dll

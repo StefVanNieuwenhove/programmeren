@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/bin/Debug/net6.0/Persistence.Wandel.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/bin/Debug/net6.0/Persistence.Wandel.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/bin/Debug/net6.0/Persistence.Wandel.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/refint/Persistence.Wandel.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/Persistence.Wandel.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Persistence.Wandel/obj/Debug/net6.0/ref/Persistence.Wandel.dll

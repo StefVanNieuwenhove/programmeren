@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "H08-Dataprocessor/1.0.0": {
+        "runtime": {
+          "H08-Dataprocessor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H08-Dataprocessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

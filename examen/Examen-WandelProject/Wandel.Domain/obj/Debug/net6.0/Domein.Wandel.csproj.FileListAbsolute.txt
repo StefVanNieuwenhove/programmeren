@@ -1,0 +1,5 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Domein.Wandel/obj/Debug/net6.0/Domein.Wandel.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Domein.Wandel/obj/Debug/net6.0/Domein.Wandel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Domein.Wandel/obj/Debug/net6.0/Domein.Wandel.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Domein.Wandel/obj/Debug/net6.0/Domein.Wandel.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/examen/Examen-WandelProject/Domein.Wandel/obj/Debug/net6.0/Domein.Wandel.csproj.CoreCompileInputs.cache

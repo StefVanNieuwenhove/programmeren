@@ -1,0 +1,12 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/bin/Debug/net6.0/Bus.Domain.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/bin/Debug/net6.0/Bus.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/bin/Debug/net6.0/Bus.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/refint/Bus.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/Bus.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.Domain/obj/Debug/net6.0/ref/Bus.Domain.dll

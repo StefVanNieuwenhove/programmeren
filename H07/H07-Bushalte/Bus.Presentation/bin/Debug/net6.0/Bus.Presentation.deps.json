@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bus.Presentation/1.0.0": {
+        "dependencies": {
+          "Bus.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bus.Presentation.dll": {}
+        }
+      },
+      "Bus.Domain/1.0.0": {
+        "runtime": {
+          "Bus.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bus.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bus.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

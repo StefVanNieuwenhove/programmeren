@@ -1,0 +1,15 @@
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\bin\Debug\net6.0\Airport.Presentation.deps.json
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\bin\Debug\net6.0\Airport.Presentation.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\bin\Debug\net6.0\Airport.Presentation.pdb
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\bin\Debug\net6.0\Airport.Domain.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\bin\Debug\net6.0\Airport.Domain.pdb
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.csproj.AssemblyReference.cache
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.AssemblyInfoInputs.cache
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.AssemblyInfo.cs
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.csproj.CopyComplete
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\refint\Airport.Presentation.dll
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\Airport.Presentation.pdb
+C:\Users\ix\Desktop\Airport\Airport\Airport.Presentation\obj\Debug\net6.0\ref\Airport.Presentation.dll

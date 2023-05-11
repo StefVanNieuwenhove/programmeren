@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3jzsDq0MlBJlFt0YQ8q9QOGlEKVkklLfkazKtpgx6mT4hVXndClSE4uUUw6gvcERo0N9IUcXg5PYsHj48YVZQ==",
+  "success": true,
+  "projectFilePath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H07/H07-Bushalte/Bus.StartUp/Bus.StartUp.csproj",
+  "expectedPackageFiles": [
+    "/Users/stefvannieuwenhove/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

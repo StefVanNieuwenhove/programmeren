@@ -1,0 +1,15 @@
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/bin/Debug/net6.0/Boek.Persistence.deps.json
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/bin/Debug/net6.0/Boek.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/bin/Debug/net6.0/Boek.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/bin/Debug/net6.0/Boek.Domain.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/bin/Debug/net6.0/Boek.Domain.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.csproj.AssemblyReference.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.AssemblyInfoInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.AssemblyInfo.cs
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.csproj.CoreCompileInputs.cache
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.csproj.CopyComplete
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/refint/Boek.Persistence.dll
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/Boek.Persistence.pdb
+/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H08/H08-Boekenwinkel/Boek.Persistence/obj/Debug/net6.0/ref/Boek.Persistence.dll

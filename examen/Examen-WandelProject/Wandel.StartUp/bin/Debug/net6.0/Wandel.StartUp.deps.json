@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wandel.StartUp/1.0.0": {
+        "dependencies": {
+          "Wandel.Domain": "1.0.0",
+          "Wandel.Persistence": "1.0.0",
+          "Wandel.Presentation": "1.0.0"
+        },
+        "runtime": {
+          "Wandel.StartUp.dll": {}
+        }
+      },
+      "Wandel.Domain/1.0.0": {
+        "runtime": {
+          "Wandel.Domain.dll": {}
+        }
+      },
+      "Wandel.Persistence/1.0.0": {
+        "dependencies": {
+          "Wandel.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wandel.Persistence.dll": {}
+        }
+      },
+      "Wandel.Presentation/1.0.0": {
+        "dependencies": {
+          "Wandel.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wandel.Presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wandel.StartUp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wandel.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wandel.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wandel.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
