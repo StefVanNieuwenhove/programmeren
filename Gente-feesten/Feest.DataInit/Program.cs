@@ -6,176 +6,144 @@ using System.Diagnostics;
 using System.Globalization;
 
 const string connectionString = @"Data Source=.\SQLExpress;Initial Catalog=gentse-feesten;Integrated Security=True;TrustServerCertificate=True";
-const string csvFile = @"C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Evenementen.csv";
-const string tableName = "Events";
+const string eventsCsv = @"C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Evenementen.csv";
+const string vipsCsv = @"";
 
-List<string> data = new();
 SqlConnection connection = new(connectionString);
-int count = 0;
-try {
-    connection.Open();
 
-    StreamReader stream = new(csvFile);
-    while (!stream.EndOfStream) {
-        string line = stream.ReadLine();
-        string[] values = line.Split(';');
-       
-        try {
-            string id = values[0];
-            string title = values[1];
-            string start = values[2];
-            string end = values[3];
-            string price = values[4];
-            string description = values[5];
+Console.WriteLine("OPTIONS");
+Console.WriteLine("-------");
+Console.WriteLine("[0]: Upload a .csv file for Events");
+Console.WriteLine("[1]: Upload a .csv file for VIP's");
+Console.WriteLine("You choose: ");
+int.TryParse(Console.ReadLine(), out int input);
 
-            //Console.WriteLine($"{id} | {title} | {start} | {end} | {price} | {description}");
-            
+Console.WriteLine(input);
 
-            SqlCommand command = new($"INSERT INTO {tableName} VALUES (@id, @title, @start, @end, @price, @description);", connection);
-
-            command.Parameters.Add("@id", SqlDbType.VarChar);
-            command.Parameters["@id"].Value = id;
-
-            command.Parameters.Add("@title", SqlDbType.VarChar);
-            command.Parameters["@title"].Value = title;
-
-            DateTime.TryParseExact(values[2], "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime startDate);
-            //Console.WriteLine(startDate);
-            command.Parameters.Add("@start", SqlDbType.DateTime);
-            command.Parameters["@start"].Value = startDate;
-
-            DateTime.TryParseExact(values[3], "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime endDate);
-            //Console.WriteLine(endDate);
-            command.Parameters.Add("@end", SqlDbType.DateTime);
-            command.Parameters["@end"].Value = endDate;
-
-            decimal.TryParse(values[4], out decimal value);
-            command.Parameters.Add("@price", SqlDbType.Decimal);
-            command.Parameters["@price"].Value = value;
-
-            command.Parameters.Add("@description", SqlDbType.Text);
-            command.Parameters["@description"].Value = description;
-
-            
-            command.ExecuteNonQuery();
-           
-
-        } catch (Exception ex) {
-            Console.WriteLine(ex.Message);
-            Console.WriteLine(count);
-        }
-        count++;
-    }
-    Console.WriteLine(count);
-    
-
-} catch (Exception ex) {
-    Console.WriteLine(ex.Message);
-} finally {
-    connection.Close();
+switch (input) {
+    case 0:
+        DeleteDataFromTable("Events");
+        uploadEvents("Events");
+        break;
+    case 1:
+        DeleteDataFromTable("Users");
+        uploadVips("Users");
+        break;
 }
 
-
-
-
-
-
-
-/*using (SqlConnection connection = new(connectionString))
-{
-    try
-    {
+void uploadEvents(string tableName) {
+    try {
         connection.Open();
+        Console.WriteLine("Uploading events.csv ....");
 
-        string query = "INSERT INTO Events (Id, Title, Startdate, EndDate, Price, Description)" +
-                       "Values (@Id, @Title, @StartDate, @EndDate, @Price, @Description);";
-      
-        using (SqlCommand command = connection.CreateCommand())
-        {
-            command.CommandText = query;
+        StreamReader stream = new(eventsCsv);
+        while (!stream.EndOfStream) {
+            string line = stream.ReadLine();
+            string[] values = line.Split(';');
 
-            using (StreamReader reader = new(csvFile)) {
-                while (!reader.EndOfStream) {
+            try {
+                string id = values[0];
+                string title = values[1];
+                string start = values[2];
+                string end = values[3];
+                string price = values[4];
+                string description = values[5];
 
-                    string line = reader.ReadLine();
-                    if (line.Contains('"')) {
-                        line = line.Replace("\"", string.Empty);
+                SqlCommand command = new($"INSERT INTO {tableName} VALUES (@id, @title, @start, @end, @price, @description);", connection);
 
-                        string[] values = line.Split(';');
+                command.Parameters.Add("@id", SqlDbType.VarChar);
+                command.Parameters["@id"].Value = id;
 
-                        if (connection.State != ConnectionState.Open)
-                            Console.WriteLine("connection closed");
-                        else Console.WriteLine("Connection open");
+                command.Parameters.Add("@title", SqlDbType.VarChar);
+                command.Parameters["@title"].Value = title;
 
-                        //Console.WriteLine(values.Length);
+                DateTime.TryParseExact(start, "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime startDate);
+                command.Parameters.Add("@start", SqlDbType.DateTime);
+                command.Parameters["@start"].Value = startDate;
 
-                        DateTime.TryParseExact(values[2], "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime start);
-                        DateTime.TryParseExact(values[3], "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime end);
+                DateTime.TryParseExact(end, "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime endDate);
+                command.Parameters.Add("@end", SqlDbType.DateTime);
+                command.Parameters["@end"].Value = endDate;
 
-                        command.Parameters.Add("@Id", SqlDbType.VarChar);
-                        command.Parameters["@Id"].Value = values[0];
+                decimal.TryParse(values[4], out decimal value);
+                command.Parameters.Add("@price", SqlDbType.Decimal);
+                command.Parameters["@price"].Value = value;
 
-                        command.Parameters.Add("@Title", SqlDbType.VarChar);
-                        command.Parameters["@Title"].Value = values[1];
+                command.Parameters.Add("@description", SqlDbType.Text);
+                command.Parameters["@description"].Value = description;
 
-                        command.Parameters.Add("@StartDate", SqlDbType.DateTime);
-                        command.Parameters["@StartDate"].Value = start;
-
-                        command.Parameters.Add("@EndDate", SqlDbType.DateTime);
-                        command.Parameters["@EndDate"].Value = end;
-
-                        command.Parameters.Add("@Price", SqlDbType.Decimal);
-                        command.Parameters["@Price"].Value = values[4];
-
-                        command.Parameters.Add("@Description", SqlDbType.Text);
-                        command.Parameters["@Description"].Value = values[5];
-
-                        Console.WriteLine($"{values[0]} | {values[1]} | {values[2]} | {values[3]} | {values[4]} | {values[5].Trim()}");
-                        Console.WriteLine(command.ToString);
-                        command.ExecuteNonQuery();
-
-                        command.Parameters.Clear();
-
-                    }
+                command.ExecuteNonQuery();
 
 
-
-                }
+            } catch (Exception ex) {
+                Console.WriteLine(ex.Message);
             }
         }
-        connection.Close();
 
-    } catch (Exception ex)
-    {
+        Console.WriteLine("Uploading events.csv successfully");
+    } catch (Exception ex) {
         Console.WriteLine(ex.Message);
+    } finally {
+        connection.Close();
     }
-}*/
+}
 
-/*void readDataOfCsvFile(string csvFile)
-{
-    StreamReader reader = new(csvFile);
-    while (!reader.EndOfStream)
-    {
-        string line = reader.ReadLine();
-        string[] values = line.Split(';');
+void uploadVips(string tableName) {    
+    try {
+        connection.Open();
+        Console.WriteLine("Uploading vips.csv ....");
 
-        try
-        {
-            string id = values[0];
-            string title = values[1];
-            string start = values[2];
-            string end = values[3];
-            string price = values[4];
-            string description = values[5];
+        StreamReader stream = new(vipsCsv);
+        while (!stream.EndOfStream) {
+            string line = stream.ReadLine();
+            string[] values = line.Split(';');
 
-            Console.WriteLine($"{id} | {title} | {start} | {end} | {price} | {description}");
+            try {
+                string firstName = values[0];
+                string lastName = values[1];
+                string email = values[2];
+                string budget = values[3];
 
+                SqlCommand command = new($"INSERT INTO {tableName} VALUES (@FirstName, @LastName, @Email, @DayPlans, @Budget);", connection);
+
+                command.Parameters.Add("@FirstName", SqlDbType.VarChar);
+                command.Parameters["@FirstName"].Value = firstName;
+
+                command.Parameters.Add("@LastName", SqlDbType.VarChar);
+                command.Parameters["@LastName"].Value = lastName;
+
+                command.Parameters.Add("@Email", SqlDbType.VarChar);
+                command.Parameters["@Email"].Value = email;
+
+                command.Parameters.Add("@Budget", SqlDbType.Decimal);
+                command.Parameters["@Budget"].Value = budget;
+
+                command.ExecuteNonQuery();
+
+
+            } catch (Exception ex) {
+                Console.WriteLine(ex.Message);
+            }
         }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
+
+        Console.WriteLine("Uploading vips.csv successfully");
+    } catch (Exception ex) {
+        Console.WriteLine(ex.Message);
+    } finally {
+        connection.Close();
     }
-}*/
+}
 
-Console.Read();
+void DeleteDataFromTable(string tableName) {
+    try {
+        connection.Open();
+
+        SqlCommand command = new($"DELETE FROM {tableName}", connection);
+        command.ExecuteNonQuery();
+
+    } catch (Exception ex) {
+        throw;
+    } finally {
+        connection.Close();
+    }
+}
