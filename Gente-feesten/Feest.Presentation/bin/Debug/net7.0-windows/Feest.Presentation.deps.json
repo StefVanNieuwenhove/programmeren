@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Feest.Presentation/1.0.0": {
+        "dependencies": {
+          "Feest.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Feest.Presentation.dll": {}
+        }
+      },
+      "Feest.Domain/1.0.0": {
+        "runtime": {
+          "Feest.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feest.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Feest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

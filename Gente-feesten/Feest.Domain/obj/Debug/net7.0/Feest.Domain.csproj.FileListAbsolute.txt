@@ -1,0 +1,12 @@
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\bin\Debug\net7.0\Feest.Domain.deps.json
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\bin\Debug\net7.0\Feest.Domain.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\bin\Debug\net7.0\Feest.Domain.pdb
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.csproj.AssemblyReference.cache
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.AssemblyInfoInputs.cache
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.AssemblyInfo.cs
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\refint\Feest.Domain.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\Feest.Domain.pdb
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Domain\obj\Debug\net7.0\ref\Feest.Domain.dll

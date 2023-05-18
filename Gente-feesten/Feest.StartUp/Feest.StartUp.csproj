@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Feest.ADO\Feest.ADO.csproj" />
+    <ProjectReference Include="..\Feest.Presentation\Feest.Presentation.csproj" />
+  </ItemGroup>
+
+</Project>

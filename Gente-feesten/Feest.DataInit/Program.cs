@@ -2,7 +2,6 @@
 using Microsoft.Data.SqlClient;
 using Microsoft.VisualBasic.FileIO;
 using System.Data;
-using System.Diagnostics;
 using System.Globalization;
 
 const string connectionString = @"Data Source=.\SQLExpress;Initial Catalog=gentse-feesten;Integrated Security=True;TrustServerCertificate=True";
@@ -15,10 +14,8 @@ Console.WriteLine("OPTIONS");
 Console.WriteLine("-------");
 Console.WriteLine("[0]: Upload a .csv file for Events");
 Console.WriteLine("[1]: Upload a .csv file for VIP's");
-Console.WriteLine("You choose: ");
+Console.Write("You choose: ");
 int.TryParse(Console.ReadLine(), out int input);
-
-Console.WriteLine(input);
 
 switch (input) {
     case 0:
@@ -57,13 +54,13 @@ void uploadEvents(string tableName) {
                 command.Parameters.Add("@title", SqlDbType.VarChar);
                 command.Parameters["@title"].Value = title;
 
-                DateTime.TryParseExact(start, "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime startDate);
-                command.Parameters.Add("@start", SqlDbType.DateTime);
-                command.Parameters["@start"].Value = startDate;
-
                 DateTime.TryParseExact(end, "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime endDate);
+                command.Parameters.Add("@start", SqlDbType.DateTime);
+                command.Parameters["@start"].Value = endDate;
+
+                DateTime.TryParseExact(start, "yyyy-MM-dd HH:mm:sszzz", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime startDate);
                 command.Parameters.Add("@end", SqlDbType.DateTime);
-                command.Parameters["@end"].Value = endDate;
+                command.Parameters["@end"].Value = startDate;
 
                 decimal.TryParse(values[4], out decimal value);
                 command.Parameters.Add("@price", SqlDbType.Decimal);

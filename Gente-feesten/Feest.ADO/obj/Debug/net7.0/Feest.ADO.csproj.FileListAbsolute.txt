@@ -1,0 +1,15 @@
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.csproj.AssemblyReference.cache
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.AssemblyInfoInputs.cache
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.AssemblyInfo.cs
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.csproj.CoreCompileInputs.cache
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\bin\Debug\net7.0\Feest.ADO.deps.json
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\bin\Debug\net7.0\Feest.ADO.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\bin\Debug\net7.0\Feest.ADO.pdb
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\bin\Debug\net7.0\Feest.Domain.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\bin\Debug\net7.0\Feest.Domain.pdb
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.csproj.CopyComplete
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\refint\Feest.ADO.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\Feest.ADO.pdb
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.ADO\obj\Debug\net7.0\ref\Feest.ADO.dll

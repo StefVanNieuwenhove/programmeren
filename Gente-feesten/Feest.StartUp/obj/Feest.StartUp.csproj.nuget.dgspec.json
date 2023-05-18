@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.StartUp\\Feest.StartUp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.ADO\\Feest.ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.ADO\\Feest.ADO.csproj",
+        "projectName": "Feest.ADO",
+        "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.ADO\\Feest.ADO.csproj",
+        "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stefv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj": {
+                "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj",
+        "projectName": "Feest.Domain",
+        "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj",
+        "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stefv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Presentation\\Feest.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Presentation\\Feest.Presentation.csproj",
+        "projectName": "Feest.Presentation",
+        "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Presentation\\Feest.Presentation.csproj",
+        "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stefv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj": {
+                "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Domain\\Feest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.StartUp\\Feest.StartUp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.StartUp\\Feest.StartUp.csproj",
+        "projectName": "Feest.StartUp",
+        "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.StartUp\\Feest.StartUp.csproj",
+        "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.StartUp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stefv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.ADO\\Feest.ADO.csproj": {
+                "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.ADO\\Feest.ADO.csproj"
+              },
+              "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Presentation\\Feest.Presentation.csproj": {
+                "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\Gente-feesten\\Feest.Presentation\\Feest.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
