@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\H10\H10-People\obj\Debug\net7.0-windows\
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\H10\H10-People\obj\Release\net7.0-windows\
 H10_People
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\H10\H10-People\App.xaml
 11407045341
 
