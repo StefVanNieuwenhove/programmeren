@@ -1,0 +1,17 @@
+﻿<Window x:Class="HO9_Personen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HO9_Personen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RadioButton Content="Claude" HorizontalAlignment="Left" Margin="137,103,0,0" VerticalAlignment="Top" GroupName="friends" Checked="RadioButton_Claude"/>
+        <RadioButton Content="Pierre" HorizontalAlignment="Left" Margin="264,103,0,0" VerticalAlignment="Top" GroupName="friends" Checked="RadioButton_Pierre"/>
+        <RadioButton Content="Jean-Jaque" HorizontalAlignment="Left" Margin="415,103,0,0" VerticalAlignment="Top" GroupName="friends" Checked="RadioButton_Jean"/>
+        <RadioButton Content="Alfred" HorizontalAlignment="Left" Margin="590,103,0,0" VerticalAlignment="Top" GroupName="friends" Checked="RadioButton_Alfred"/>
+        <Label Content="" Name="output" HorizontalAlignment="Left" Margin="165,0,0,0" VerticalAlignment="Center" Width="328"/>
+
+    </Grid>
+</Window>

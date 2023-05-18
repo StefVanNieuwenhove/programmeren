@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HO9-Personen/1.0.0": {
+        "runtime": {
+          "HO9-Personen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HO9-Personen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

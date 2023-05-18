@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/H01-Fitness.csproj": {}
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\H01\\H01-Fitness\\H01-Fitness.csproj": {}
   },
   "projects": {
-    "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/H01-Fitness.csproj": {
+    "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\H01\\H01-Fitness\\H01-Fitness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/H01-Fitness.csproj",
+        "projectUniqueName": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\H01\\H01-Fitness\\H01-Fitness.csproj",
         "projectName": "H01-Fitness",
-        "projectPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/H01-Fitness.csproj",
-        "packagesPath": "/Users/stefvannieuwenhove/.nuget/packages/",
-        "outputPath": "/Users/stefvannieuwenhove/Documents/Hogent/2022-2023/Programmeren/H01/H01-Fitness/obj/",
+        "projectPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\H01\\H01-Fitness\\H01-Fitness.csproj",
+        "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefv\\Documents\\HoGent\\2022-2023\\Programmeren\\H01\\H01-Fitness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/stefvannieuwenhove/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\stefv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

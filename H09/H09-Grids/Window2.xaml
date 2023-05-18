@@ -1,0 +1,31 @@
+﻿<Window x:Class="H09_Grids.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:H09_Grids"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <Button Margin="0 0 10 0">Open file</Button>
+                <Button>Close</ButtonLeft>
+            </StackPanel>
+            <Button HorizontalAlignment="Right" Width="60">Close</Button>
+        </Grid>
+        <TextBlock TextWrapping="Wrap" Grid.Row="1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis venenatis dolor sed elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. In hac habitasse platea dictumst. Suspendisse gravida, nisl in dapibus tristique, massa diam malesuada lectus, ac tristique eros nulla eu sapien. Curabitur venenatis dui metus, non dignissim turpis scelerisque eu. Sed lobortis, nulla id tempus scelerisque, massa lorem consectetur sem, id facilisis enim massa vel elit. Aliquam hendrerit bibendum diam, at gravida mauris bibendum eget. Sed sed tincidunt dui. Aliquam ac mauris risus. Maecenas quis eros ac elit feugiat convallis.
+
+Donec fermentum, nunc a finibus bibendum, sem odio tempus dui, at lacinia arcu ligula vel metus. Integer suscipit tincidunt lectus ut pellentesque. Suspendisse sed cursus dolor. Nulla fermentum, metus vitae vestibulum dignissim, velit tortor interdum neque, vel auctor tellus dui eget massa. Vivamus mattis ex eu risus iaculis, non placerat ipsum varius. Proin a risus in mi consectetur aliquet a nec tortor. Duis id nisi vitae nisl rhoncus posuere. Maecenas a nulla at nisi pellentesque aliquet. Morbi nec efficitur velit, a iaculis purus. Aenean rutrum auctor ante ac mattis. Fusce commodo, ipsum ac faucibus feugiat, velit quam condimentum dui, a facilisis turpis orci in ligula. Vestibulum in placerat dolor, a luctus orci. Vivamus quis leo sit amet diam volutpat egestas. Suspendisse porta fringilla neque, a aliquet tortor gravida ac. Nunc cursus pellentesque dui nec consectetur.
+        <LineBreak />
+        <LineBreak />
+        Morbi mattis viverra odio, at bibendum nibh convallis non. In fringilla eleifend ipsum non ultrices. Nullam posuere enim ut malesuada laoreet. Duis porttitor urna ut elementum viverra. Ut elementum, sem sit amet mattis feugiat, risus nibh feugiat justo, ut egestas metus purus ac erat. Nunc in neque purus. Quisque aliquam consequat fringilla. Suspendisse sit amet risus vitae odio feugiat finibus. Nam ullamcorper, risus sit amet lacinia mattis, sem elit aliquet lacus, et suscipit nibh mi et dui. Nulla facilisi. In consequat justo in luctus suscipit. Maecenas suscipit bibendum dapibus. Curabitur accumsan turpis a purus auctor, eu cursus mi gravida. Etiam hendrerit enim tortor, vel pharetra mi dictum vel. In tristique diam ligula, vitae bibendum risus rutrum ac. Vestibulum quis felis eu ante venenatis lacinia eu nec arcu.
+
+        </TextBlock>
+    </Grid>
+</Window>
