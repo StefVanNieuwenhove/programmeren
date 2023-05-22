@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 
 namespace Feest.Presentation {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for UserWindow.xaml
     /// </summary>
     public partial class UserWindow : Window {
 
@@ -61,6 +61,5 @@ namespace Feest.Presentation {
                 UserInfoTextBox.Text = output;
             }
         }
-
     }
 }
