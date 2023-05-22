@@ -10,5 +10,6 @@ namespace Feest.Domain.Interface {
 
         List<Event> GetAllEvents();
         Event GetEventById(string id);
+        List<Event> GetEventByTitle(string title);
     }
 }

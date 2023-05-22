@@ -18,3 +18,5 @@ C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Prese
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\ref\Feest.Presentation.dll
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\UserWindow.g.cs
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\UserWindow.baml
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\DayplanWindow.g.cs
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\DayplanWindow.baml

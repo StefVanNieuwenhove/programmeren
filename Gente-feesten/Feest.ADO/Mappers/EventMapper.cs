@@ -84,5 +84,37 @@ namespace Feest.ADO.Mappers {
                 _connection.Close(); 
             }
         }
+
+        public List<Event> GetEventByTitle(string search) {
+            List<Event> events = new();
+
+            try {
+                _connection.Open();
+                SqlCommand command = new($"SELECT * FROM {tableName} WHERE Title LIKE @Title", _connection);
+                command.Parameters.AddWithValue("@Title", "%" + search + "%");
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read()) {
+                    try {
+                        string id = (string)reader["Id"];
+                        string title = (string)reader["Title"];
+                        DateTime start = (DateTime)reader["StartDate"];
+                        DateTime end = (DateTime)reader["EndDate"];
+                        decimal price = (decimal)reader["Price"];
+                        string description = (string)reader["Description"];
+
+                        events.Add(new Event(id, title, start, end, price, description));
+                    } catch (Exception ex) {
+                        throw;
+                    }
+                }
+
+                return events;
+            } catch (Exception ex) {
+                throw;
+            } finally {
+                _connection.Close();
+            }
+        }
     }
 }

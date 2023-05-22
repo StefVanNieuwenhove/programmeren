@@ -10,33 +10,54 @@ using System.Windows;
 namespace Feest.Presentation {
     public class GentseFeestenApplication {
 
-        private UserWindow window;
+        private UserWindow _userWindow;
+        private DayplanWindow _dayplanWindow;
 
         private readonly DomainManager _manager;
 
         public GentseFeestenApplication(DomainManager manager) {
             _manager = manager;
 
-            window = new UserWindow();
-            window.SearchingUser += SearchUser;
-            window.Show();
+            _userWindow = new UserWindow();
+            _userWindow.SearchingUser += OnSearchUser;
+            _userWindow.CreatingDayPlan += OnCreatingDayPlan;
+            _userWindow.Show();
 
-            window.Users = GetAllUsers();
-
+            _userWindow.Users = GetAllUsers();
         }
+
+        // changing window
+        private void OnCreatingDayPlan(object? sender, UserDTO user) {
+            _dayplanWindow = new DayplanWindow(user);
+            _dayplanWindow.SearchingEvent += OnSearchEvent;
+            _dayplanWindow.Show();
+            _userWindow.Hide();
+
+            _dayplanWindow.Events = GetAllDistinctEvents();
+        }
+
         // EVENTS
+        private List<EventDTO> GetAllDistinctEvents() {
+            return _manager.GetAllDisctinctEvents();
+        }
+
+        private void OnSearchEvent(object? sender, string title) {
+            _dayplanWindow.EventsSearch = _manager.SearchEvent(title);
+        }
 
         // USERS
-        public List<UserDTO> GetAllUsers() {
+        private List<UserDTO> GetAllUsers() {
             return _manager.GetAllUsers(); ;
         }
 
-        public UserDTO GetUserById(int id) {
+        private UserDTO GetUserById(int id) {
             return _manager.GetUserById(0);
         }
 
-        public void SearchUser(object? sender, string username) {
-            window.UsersSeach = _manager.SearchUser(username.ToString());
+        private void OnSearchUser(object? sender, string username) {
+            _userWindow.UsersSeach = _manager.SearchUser(username.ToString());
         }
+
+        
     }
 }

@@ -29,20 +29,25 @@ namespace Feest.Domain.Managers {
         }
 
         // EVENTS
-        public List<string> GetAllEvents() {
-            return _eventManager.GetAllEvents(); 
-        }
+        public List<EventDTO> GetAllEvents() => _eventManager.GetAllEvents(); 
+        
+
+        public List<EventDTO> GetAllDisctinctEvents() => _eventManager.GetAllDistinctEvents();
+
+
+        public List<EventDTO> SearchEvent(string title) => _eventManager.SearchEvent(title);
+        
 
         // USERS
-        public List<UserDTO> GetAllUsers() {
-            return _userManager.GetAllUsers();
-        }
+        public List<UserDTO> GetAllUsers() => _userManager.GetAllUsers();
+        
 
-        public UserDTO GetUserById(int id) {
-            return _userManager.GetUserById(id);
-        }
+        public UserDTO GetUserById(int id) => _userManager.GetUserById(id);
+        
 
         public List<UserDTO> SearchUser(string username) => _userManager.SearchUser(username);
+
+        
 
         // DAYPLAN
     }
