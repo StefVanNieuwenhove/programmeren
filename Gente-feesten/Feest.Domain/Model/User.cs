@@ -15,11 +15,10 @@ namespace Feest.Domain.Model {
         // private List<DayPlan> _dayPlans;
         private decimal _budget;
 
-        public User(int id, string firstName, string lastName, string email, decimal budget) {
+        public User(int id, string firstName, string lastName, decimal budget) {
             Id = id;
             FirstName = firstName;
             LastName = lastName;
-            Email = email;
             Budget = budget;
         }
 
@@ -28,7 +27,6 @@ namespace Feest.Domain.Model {
         public int Id { get => _id; set => _id = value;}
         public string FirstName { get => _firstName; set => _firstName = value; }
         public string LastName { get => _lastName; set => _lastName = value; }
-        public string Email { get => _email; set => _email = value; }
         public decimal Budget { get => _budget; set => _budget = value; }
 
         #endregion

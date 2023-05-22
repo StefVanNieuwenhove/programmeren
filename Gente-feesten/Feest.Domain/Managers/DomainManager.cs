@@ -1,4 +1,5 @@
-﻿using Feest.Domain.Interface;
+﻿using Feest.Domain.DTO;
+using Feest.Domain.Interface;
 using Feest.Domain.Model;
 using System;
 using System.Collections.Generic;
@@ -27,8 +28,22 @@ namespace Feest.Domain.Managers {
             _dayPlanManager = new(_dayPlanRepo);
         }
 
+        // EVENTS
         public List<string> GetAllEvents() {
             return _eventManager.GetAllEvents(); 
         }
+
+        // USERS
+        public List<UserDTO> GetAllUsers() {
+            return _userManager.GetAllUsers();
+        }
+
+        public UserDTO GetUserById(int id) {
+            return _userManager.GetUserById(id);
+        }
+
+        public List<UserDTO> SearchUser(string username) => _userManager.SearchUser(username);
+
+        // DAYPLAN
     }
 }

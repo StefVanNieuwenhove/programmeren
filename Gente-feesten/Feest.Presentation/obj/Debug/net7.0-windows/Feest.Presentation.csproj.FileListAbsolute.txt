@@ -4,10 +4,8 @@ C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Prese
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\bin\Debug\net7.0-windows\Feest.Domain.dll
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\bin\Debug\net7.0-windows\Feest.Domain.pdb
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation.csproj.AssemblyReference.cache
-C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\MainWindow.g.cs
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation_MarkupCompile.cache
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation_MarkupCompile.lref
-C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\MainWindow.baml
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation.g.resources
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation.AssemblyInfoInputs.cache
@@ -18,3 +16,7 @@ C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Prese
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\refint\Feest.Presentation.dll
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\Feest.Presentation.pdb
 C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\ref\Feest.Presentation.dll
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\DayPlanWindow.g.cs
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\UserWindow.g.cs
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\DayPlanWindow.baml
+C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Feest.Presentation\obj\Debug\net7.0-windows\UserWindow.baml

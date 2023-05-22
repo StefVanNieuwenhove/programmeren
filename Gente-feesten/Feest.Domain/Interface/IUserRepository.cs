@@ -10,6 +10,6 @@ namespace Feest.Domain.Interface {
 
         List<User> GetAllUsers();
         User GetUserById(int id);
-
+        List<User> GetUserByName(string username);
     }
 }

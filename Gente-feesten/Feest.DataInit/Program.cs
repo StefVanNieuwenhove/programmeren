@@ -6,7 +6,7 @@ using System.Globalization;
 
 const string connectionString = @"Data Source=.\SQLExpress;Initial Catalog=gentse-feesten;Integrated Security=True;TrustServerCertificate=True";
 const string eventsCsv = @"C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Evenementen.csv";
-const string vipsCsv = @"";
+const string vipsCsv = @"C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Vips.csv";
 
 SqlConnection connection = new(connectionString);
 
@@ -98,10 +98,12 @@ void uploadVips(string tableName) {
             try {
                 string firstName = values[0];
                 string lastName = values[1];
-                string email = values[2];
-                string budget = values[3];
+                string budget = values[2];
+                //decimal.TryParse(values[2], out decimal budget, CultureInfo.InvariantCulture);
 
-                SqlCommand command = new($"INSERT INTO {tableName} VALUES (@FirstName, @LastName, @Email, @DayPlans, @Budget);", connection);
+                Console.WriteLine($"{firstName} - {lastName} - {budget}");
+
+                SqlCommand command = new($"INSERT INTO {tableName} VALUES (@FirstName, @LastName, @Budget);", connection);
 
                 command.Parameters.Add("@FirstName", SqlDbType.VarChar);
                 command.Parameters["@FirstName"].Value = firstName;
@@ -109,11 +111,8 @@ void uploadVips(string tableName) {
                 command.Parameters.Add("@LastName", SqlDbType.VarChar);
                 command.Parameters["@LastName"].Value = lastName;
 
-                command.Parameters.Add("@Email", SqlDbType.VarChar);
-                command.Parameters["@Email"].Value = email;
-
                 command.Parameters.Add("@Budget", SqlDbType.Decimal);
-                command.Parameters["@Budget"].Value = budget;
+                command.Parameters["@Budget"].Value = Convert.ToDecimal(budget, CultureInfo.InvariantCulture);
 
                 command.ExecuteNonQuery();
 
@@ -144,3 +143,5 @@ void DeleteDataFromTable(string tableName) {
         connection.Close();
     }
 }
+
+Console.Read();

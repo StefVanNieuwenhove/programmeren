@@ -35,10 +35,9 @@ namespace Feest.ADO.Mappers {
                         int id = (int)reader["Id"];
                         string firstName = (string)reader["FirstName"];
                         string lastName = (string)reader["LastName"];
-                        string email = (string)reader["Email"];
                         decimal budget = (decimal)reader["Budget"];
 
-                        users.Add(new User(id, firstName, lastName, email, budget));
+                        users.Add(new User(id, firstName, lastName, budget));
                     } catch (Exception ex) {
                         throw;
                     }
@@ -69,13 +68,44 @@ namespace Feest.ADO.Mappers {
                         string email = (string)reader["email"];
                         decimal budget = (decimal)reader["budget"];
 
-                        user = new User(id, firstName, lastName, email, budget);
+                        user = new User(id, firstName, lastName, budget);
                     } catch (Exception ex) {
                         throw;
                     }
                 }
 
                 return user;
+            } catch (Exception ex) {
+                throw;
+            } finally {
+                _connection.Close();
+            }
+        }
+
+        public List<User> GetUserByName(string username) {
+            List<User> users = new();
+
+            try {
+                _connection.Open();
+                SqlCommand command = new SqlCommand($"SELECT * FROM {tableName} WHERE FirstName LIKE @Username", _connection);
+                command.Parameters.AddWithValue("@Username", "%" + username + "%");
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read()) {
+                    try {
+                        int id = (int)reader["Id"];
+                        string firstName = (string)reader["FirstName"];
+                        string lastName = (string)reader["LastName"];
+                        decimal budget = (decimal)reader["Budget"];
+
+                        users.Add(new User(id, firstName, lastName, budget));
+                    } catch (Exception ex) {
+                        throw;
+                    }
+                }
+                Console.WriteLine(users);
+                return users;
             } catch (Exception ex) {
                 throw;
             } finally {
