@@ -19,6 +19,10 @@ namespace Feest.Domain.DTO {
             Budget = budget;
         }
 
+        public string ShowDetails() {
+            return $"Id: {Id}\n" + $"Firstname: {FirstName}\n" + $"Lastname: {LastName}\n" + $"Budget: {Budget}\n";
+        }
+
         public override string ToString() {
             return $"{FirstName} {LastName}";
         }

@@ -20,6 +20,7 @@ namespace Feest.Presentation {
     public partial class UserWindow : Window {
 
         public event EventHandler<string> SearchingUser;
+        public event EventHandler<UserDTO> CreatingDayPlan;
 
         public List<UserDTO> Users {
             set => UsersList.ItemsSource = value;
@@ -31,15 +32,17 @@ namespace Feest.Presentation {
             get => SearchUserList.ItemsSource as List<UserDTO>;
         }
 
+        private UserDTO _selectedUser { get; set; }
+
         public UserWindow() {
             InitializeComponent();
         }
 
         private void UsersList_SelectionChanged(object sender, SelectionChangedEventArgs e) {
-            UserDTO user = UsersList.SelectedItem as UserDTO;
+            _selectedUser = UsersList.SelectedItem as UserDTO;
 
-            if (user != null) {
-                string output = $"Id: {user.Id}\n" + $"Firstname: {user.FirstName}\n" + $"Lastname: {user.LastName}\n" + $"Budget: {user.Budget}\n";
+            if (_selectedUser != null) {
+                string output = $"Id: {_selectedUser.Id}\n" + $"Firstname: {_selectedUser.FirstName}\n" + $"Lastname: {_selectedUser.LastName}\n" + $"Budget: {_selectedUser.Budget}\n";
                 UserInfoTextBox.Text = output;
             }
         }
@@ -54,12 +57,17 @@ namespace Feest.Presentation {
         private void SearchUserList_SelectionChanged(object sender, SelectionChangedEventArgs e) {
             UserInfoTextBox.Clear();
 
-            UserDTO user = SearchUserList.SelectedItem as UserDTO;
+            _selectedUser = SearchUserList.SelectedItem as UserDTO;
 
-            if (user != null) {
-                string output = $"Id: {user.Id}\n" + $"Firstname: {user.FirstName}\n" + $"Lastname: {user.LastName}\n" + $"Budget: {user.Budget}\n";
-                UserInfoTextBox.Text = output;
+            if (_selectedUser != null) {
+                UserInfoTextBox.Text = _selectedUser.ShowDetails();
             }
+        }
+
+        private void MakeDayPlanButton_Click(object sender, RoutedEventArgs e) {
+            if (_selectedUser != null) {
+                CreatingDayPlan?.Invoke(this, _selectedUser);
+            } else MessageBox.Show("Select an user to create a dayplan");
         }
     }
 }

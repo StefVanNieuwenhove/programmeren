@@ -26,7 +26,7 @@
                 <ListBox x:Name="SearchUserList" Height="169" SelectionChanged="SearchUserList_SelectionChanged" />
             </StackPanel>
             <TextBox x:Name="UserInfoTextBox"  Grid.Row="1" />
-            <Button x:Name="MakeDayPlanButton" Content="Make Dayplan"  Grid.Row="2" />
+            <Button x:Name="MakeDayPlanButton" Content="Make Dayplan"  Grid.Row="2" Click="MakeDayPlanButton_Click" />
         </Grid>
     </Grid>
 </Window>
