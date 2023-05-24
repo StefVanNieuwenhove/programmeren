@@ -27,15 +27,12 @@ namespace Feest.Presentation {
             get => UsersList.ItemsSource as List<UserDTO>;
         }
 
-        public List<UserDTO> UsersSeach {
-            set => SearchUserList.ItemsSource = value;
-            get => SearchUserList.ItemsSource as List<UserDTO>;
-        }
-
         private UserDTO _selectedUser { get; set; }
 
         public UserWindow() {
             InitializeComponent();
+
+            SearchingUser?.Invoke(this, SearchUserTextBox.Text);
         }
 
         private void UsersList_SelectionChanged(object sender, SelectionChangedEventArgs e) {
@@ -48,20 +45,7 @@ namespace Feest.Presentation {
         }
 
         private void SearchUserTextBox_TextChanged(object sender, EventArgs e) {
-            if (!string.IsNullOrWhiteSpace(SearchUserTextBox.Text)) {
-
-                SearchingUser?.Invoke(this, SearchUserTextBox.Text);
-            }
-        }
-
-        private void SearchUserList_SelectionChanged(object sender, SelectionChangedEventArgs e) {
-            UserInfoTextBox.Clear();
-
-            _selectedUser = SearchUserList.SelectedItem as UserDTO;
-
-            if (_selectedUser != null) {
-                UserInfoTextBox.Text = _selectedUser.ShowDetails();
-            }
+           SearchingUser?.Invoke(this, SearchUserTextBox.Text); 
         }
 
         private void MakeDayPlanButton_Click(object sender, RoutedEventArgs e) {

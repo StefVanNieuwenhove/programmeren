@@ -35,7 +35,6 @@
                 <Label Content="Search event" VerticalAlignment="Top" />
                 <TextBox x:Name="SearchEventTextBox" TextChanged="SearchEventTextBox_TextChanged"/>
             </StackPanel>
-            <ListView x:Name="SearchEventList" SelectionChanged="SearchEventLis_SelectionChanged" Grid.Row="1" />
             <TextBox x:Name="EventInfoTextBox" Grid.Row="2" TextWrapping="Wrap" />
         </Grid>
     </Grid>

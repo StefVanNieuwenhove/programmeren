@@ -42,20 +42,19 @@ namespace Feest.Presentation {
         }
 
         private void OnSearchEvent(object? sender, string title) {
-            _dayplanWindow.EventsSearch = _manager.SearchEvent(title);
+            _dayplanWindow.Events = _manager.SearchEvent(title);
         }
 
         // USERS
         private List<UserDTO> GetAllUsers() {
-            return _manager.GetAllUsers(); ;
-        }
-
-        private UserDTO GetUserById(int id) {
-            return _manager.GetUserById(0);
+            return _manager.GetAllUsers(); 
         }
 
         private void OnSearchUser(object? sender, string username) {
-            _userWindow.UsersSeach = _manager.SearchUser(username.ToString());
+            if (string.IsNullOrWhiteSpace(username)) {
+                _userWindow.Users = _manager.GetAllUsers();
+            }
+            _userWindow.Users = _manager.SearchUser(username.ToString());
         }
 
         
