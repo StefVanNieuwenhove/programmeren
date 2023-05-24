@@ -13,29 +13,14 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <Grid Grid.Column="0">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="auto"/>
-                <RowDefinition Height="auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <Label Name="UserDetails" Content="" Grid.Row="0" Padding="0 0 0 5" VerticalAlignment="Top" HorizontalAlignment="Left"/>
-            <Label Content="Events" Grid.Row="1"/>
-            <ListView x:Name="Eventslist" Grid.Row="2" SelectionChanged="Eventslist_SelectionChanged" />
-        </Grid>
-        <Grid Grid.Column="1">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="auto"/>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <StackPanel Grid.Row="0">
-                <Label Content="Search event" VerticalAlignment="Top" />
-                <TextBox x:Name="SearchEventTextBox" TextChanged="SearchEventTextBox_TextChanged"/>
-            </StackPanel>
-            <TextBox x:Name="EventInfoTextBox" Grid.Row="2" TextWrapping="Wrap" />
-        </Grid>
+        <StackPanel Grid.Column="0">
+            <Label x:Name="UserDetails"/>
+            <Label Content="Search Event"/>
+            <TextBox x:Name="SearchEventTextBox" TextChanged="SearchEventTextBox_TextChanged"/>
+            <Label Content="Overview event(s)" />
+            <ListView x:Name="EventList" SelectionChanged="EventsList_SelectionChanged" Height="984" />
+        </StackPanel>
+        <TextBlock x:Name="EventInfoTextBox" />
     </Grid>
 </Window>

@@ -11,21 +11,18 @@
         WindowState="Maximized">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <ListBox x:Name="UsersList" Grid.Column="0" SelectionChanged="UsersList_SelectionChanged" />
-        <Grid Grid.Column="1" >
-            <Grid.RowDefinitions>
-                <RowDefinition Height="200" />
-                <RowDefinition Height="*" />
-                <RowDefinition Height="40" />
-            </Grid.RowDefinitions>
-            <StackPanel Grid.Row="0" >
-                <TextBox x:Name="SearchUserTextBox" Height="30" TextChanged="SearchUserTextBox_TextChanged"/>
-            </StackPanel>
-            <TextBox x:Name="UserInfoTextBox"  Grid.Row="1" />
-            <Button x:Name="MakeDayPlanButton" Content="Make Dayplan"  Grid.Row="2" Click="MakeDayPlanButton_Click" />
-        </Grid>
+        <StackPanel Grid.Column="0">
+            <Label Content="Search user" />
+            <TextBox x:Name="SearchUserTextBox" TextChanged="SearchUserTextBox_TextChanged" Margin="5 0 0 0"/>
+            <Label Content="Overview user(s)" />
+            <ListView x:Name="UsersList" SelectionChanged="UsersList_SelectionChanged" MouseDoubleClick="UsersList_MouseDoubleClick" Height="994" />
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="5 0 0 0">
+            <Label Content="User details"  />
+            <TextBlock x:Name="UserInfoTextBox" />
+        </StackPanel>
     </Grid>
 </Window>

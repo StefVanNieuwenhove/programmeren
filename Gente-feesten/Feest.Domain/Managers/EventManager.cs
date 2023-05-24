@@ -22,11 +22,11 @@ namespace Feest.Domain.Managers {
         }
 
         public List<EventDTO> GetAllDistinctEvents() {
-            return _repository.GetAllEvents().Select(x => new EventDTO(x.Id, x.Title, x.StartDate, x.EndDate, x.Price, x.Description)).DistinctBy(x => x.Title).OrderBy(x => x.Title).ToList();
+            return _repository.GetAllEvents().Select(x => new EventDTO(x.Id, x.Title, x.StartDate, x.EndDate, x.Price, x.Description)).DistinctBy(x => x.Title).OrderBy(x => x.Title).ThenBy(x => x.StartDate).ToList();
         }
 
         public List<EventDTO> SearchEvent(string title) {
-            return _repository.GetEventByTitle(title).Select(x => new EventDTO(x.Id, x.Title, x.StartDate, x.EndDate, x.Price, x.Description)).OrderBy(x => x.Title).ToList();
+            return _repository.GetEventByTitle(title).Select(x => new EventDTO(x.Id, x.Title, x.StartDate, x.EndDate, x.Price, x.Description)).DistinctBy(x => x.Title).OrderBy(x => x.Title).ToList();
         }
     }
 }

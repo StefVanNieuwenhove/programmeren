@@ -42,6 +42,9 @@ namespace Feest.Presentation {
         }
 
         private void OnSearchEvent(object? sender, string title) {
+            if (string.IsNullOrWhiteSpace(title)) {
+                _dayplanWindow.Events = _manager.GetAllDisctinctEvents();
+            }
             _dayplanWindow.Events = _manager.SearchEvent(title);
         }
 

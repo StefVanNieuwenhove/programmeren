@@ -31,8 +31,6 @@ namespace Feest.Presentation {
 
         public UserWindow() {
             InitializeComponent();
-
-            SearchingUser?.Invoke(this, SearchUserTextBox.Text);
         }
 
         private void UsersList_SelectionChanged(object sender, SelectionChangedEventArgs e) {
@@ -52,6 +50,18 @@ namespace Feest.Presentation {
             if (_selectedUser != null) {
                 CreatingDayPlan?.Invoke(this, _selectedUser);
             } else MessageBox.Show("Select an user to create a dayplan");
+        }
+
+        private void UsersList_MouseDoubleClick(object sender, MouseButtonEventArgs e) {
+           MessageBoxResult result = MessageBox.Show($"Do you want to create a dayplay for ${_selectedUser}?", "Create Dayplan", MessageBoxButton.YesNo, MessageBoxImage.Information, MessageBoxResult.Yes);
+
+            switch (result) {
+                case MessageBoxResult.Yes:
+                    CreatingDayPlan?.Invoke(this, _selectedUser);
+                    break;
+                case MessageBoxResult.No:
+                    break;
+            }
         }
     }
 }

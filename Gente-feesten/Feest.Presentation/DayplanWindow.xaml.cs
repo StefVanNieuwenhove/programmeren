@@ -22,8 +22,8 @@ namespace Feest.Presentation {
         public event EventHandler<string> SearchingEvent;
 
         public List<EventDTO> Events {
-            set => Eventslist.ItemsSource = value;
-            get => Eventslist.ItemsSource as List<EventDTO>;
+            set => EventList.ItemsSource = value;
+            get => EventList.ItemsSource as List<EventDTO>;
         }
 
         private UserDTO _user;
@@ -33,12 +33,11 @@ namespace Feest.Presentation {
             InitializeComponent();
 
             _user = user;
-
             UserDetails.Content = $"{_user} - {_user.Budget}";
         }
 
-        private void Eventslist_SelectionChanged(object sender, SelectionChangedEventArgs e) {
-            _selectedEvent = Eventslist.SelectedItem as EventDTO;
+        private void EventsList_SelectionChanged(object sender, SelectionChangedEventArgs e) {
+            _selectedEvent = EventList.SelectedItem as EventDTO;
 
             if (_selectedEvent != null) {
                 EventInfoTextBox.Text = _selectedEvent.ShowDetails();
@@ -46,9 +45,7 @@ namespace Feest.Presentation {
         }
 
         private void SearchEventTextBox_TextChanged(object sender, TextChangedEventArgs e) {
-            if (!string.IsNullOrWhiteSpace(SearchEventTextBox.Text)) {
-                SearchingEvent?.Invoke(this, SearchEventTextBox.Text);
-            }
+           SearchingEvent?.Invoke(this, SearchEventTextBox.Text); 
         }
     }
 }
