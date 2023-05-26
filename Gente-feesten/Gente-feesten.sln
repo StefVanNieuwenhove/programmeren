@@ -5,13 +5,15 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feest.DataInit", "Feest.DataInit\Feest.DataInit.csproj", "{46A2BD7C-C00C-4E6A-B909-8D5E0A3D3ECA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feest.ADO", "Feest.ADO\Feest.ADO.csproj", "{538EB2B7-EBD4-4F00-AB47-165C4668B3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feest.ADO", "Feest.ADO\Feest.ADO.csproj", "{538EB2B7-EBD4-4F00-AB47-165C4668B3EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feest.Domain", "Feest.Domain\Feest.Domain.csproj", "{A53B4435-C1B7-463F-9B21-1B8C6983183A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feest.Domain", "Feest.Domain\Feest.Domain.csproj", "{A53B4435-C1B7-463F-9B21-1B8C6983183A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feest.StartUp", "Feest.StartUp\Feest.StartUp.csproj", "{7E23FE0B-2984-4CFE-B47E-D7CD30DCB0A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feest.StartUp", "Feest.StartUp\Feest.StartUp.csproj", "{7E23FE0B-2984-4CFE-B47E-D7CD30DCB0A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feest.Presentation", "Feest.Presentation\Feest.Presentation.csproj", "{84DDD339-DC8F-4078-B984-52F9F9C07998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feest.Presentation", "Feest.Presentation\Feest.Presentation.csproj", "{84DDD339-DC8F-4078-B984-52F9F9C07998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feest.Test", "Feest.Test\Feest.Test.csproj", "{D081ADB7-0AF3-49EC-B613-6D2F9C9CD4F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{84DDD339-DC8F-4078-B984-52F9F9C07998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84DDD339-DC8F-4078-B984-52F9F9C07998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84DDD339-DC8F-4078-B984-52F9F9C07998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D081ADB7-0AF3-49EC-B613-6D2F9C9CD4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D081ADB7-0AF3-49EC-B613-6D2F9C9CD4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D081ADB7-0AF3-49EC-B613-6D2F9C9CD4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D081ADB7-0AF3-49EC-B613-6D2F9C9CD4F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

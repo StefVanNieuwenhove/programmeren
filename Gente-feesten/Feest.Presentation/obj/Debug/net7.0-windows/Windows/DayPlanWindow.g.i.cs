@@ -109,7 +109,7 @@ namespace Feest.Presentation.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Feest.Presentation;component/windows/dayplanwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Feest.Presentation;V1.0.0.0;component/windows/dayplanwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\DayPlanWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
