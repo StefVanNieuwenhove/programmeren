@@ -8,14 +8,14 @@ using System.Threading.Tasks;
 namespace Feest.Domain.Model {
     public class Event {
 
-        private string _id;
+        private int _id;
         private string _title;
         private DateTime _startDate;
         private DateTime _endDate;
         private decimal _price;
         private string _description;
 
-        public Event(string id, string title, DateTime startDate, DateTime endDate, decimal price, string description) {
+        public Event(int id, string title, DateTime startDate, DateTime endDate, decimal price, string description) {
             Description = description;
             Id = id;
             Title = title;
@@ -27,7 +27,7 @@ namespace Feest.Domain.Model {
 
         #region properties
 
-        public string Id { get => _id; set => _id = value; }
+        public int Id { get => _id; set => _id = value; }
         public string Title { get => _title; set => _title = value; }
         public DateTime StartDate { get => _startDate; set => _startDate = value; }
         public DateTime EndDate { get => _endDate; set => _endDate = value; }

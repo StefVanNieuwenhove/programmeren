@@ -29,14 +29,16 @@ namespace Feest.Domain.Managers {
         }
 
         // EVENTS
-        public List<EventDTO> GetAllEvents() => _eventManager.GetAllEvents(); 
-        
+        public List<EventDTO> GetAllEventByDate(DateTime date) {
+            return _eventManager.GetAllEventByDate(date);
+        }
 
-        public List<EventDTO> GetAllDisctinctEvents() => _eventManager.GetAllDistinctEvents();
+        public List<EventDTO> SearchEvent(string title, DateTime date) => _eventManager.SearchEvent(title, date);
 
+        public List<EventDTO> GetEventsByTitle(string title, DateTime date) => _eventManager.GetEventsByTitle(title, date);
 
-        public List<EventDTO> SearchEvent(string title) => _eventManager.SearchEvent(title);
-        
+        public List<DateTime> GetStartDateEndDateEvents() => _eventManager.GetStartDateEndDateEvents();
+
 
         // USERS
         public List<UserDTO> GetAllUsers() => _userManager.GetAllUsers();
@@ -47,8 +49,15 @@ namespace Feest.Domain.Managers {
 
         public List<UserDTO> SearchUser(string username) => _userManager.SearchUser(username);
 
-        
-
         // DAYPLAN
+        public List<DayPlanDTO> GetUserDayplan(int id) {
+            return _dayPlanManager.GetDayPlanOfUser(id);
+        }
+
+        public int CreateDayPlan(UserDTO user, DateTime date) {
+             return _dayPlanManager.CreateDayPlan(user, date);
+        }
+
+        public List<string> AddEventToDayPlan(int dayPlanId,EventDTO dto,UserDTO user, DateTime date) => _dayPlanManager.AddEventToDayPlan(dayPlanId, dto, user, date);
     }
 }

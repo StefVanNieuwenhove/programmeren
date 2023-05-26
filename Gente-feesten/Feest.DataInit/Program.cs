@@ -7,6 +7,7 @@ using System.Globalization;
 const string connectionString = @"Data Source=.\SQLExpress;Initial Catalog=gentse-feesten;Integrated Security=True;TrustServerCertificate=True";
 const string eventsCsv = @"C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Evenementen.csv";
 const string vipsCsv = @"C:\Users\stefv\Documents\HoGent\2022-2023\Programmeren\Gente-feesten\Vips.csv";
+const string replaceChar = "\"";
 
 SqlConnection connection = new(connectionString);
 
@@ -36,20 +37,17 @@ void uploadEvents(string tableName) {
         StreamReader stream = new(eventsCsv);
         while (!stream.EndOfStream) {
             string line = stream.ReadLine();
+            line.Replace(replaceChar, string.Empty);
             string[] values = line.Split(';');
 
             try {
-                string id = values[0];
                 string title = values[1];
                 string start = values[2];
                 string end = values[3];
                 string price = values[4];
                 string description = values[5];
 
-                SqlCommand command = new($"INSERT INTO {tableName} VALUES (@id, @title, @start, @end, @price, @description);", connection);
-
-                command.Parameters.Add("@id", SqlDbType.VarChar);
-                command.Parameters["@id"].Value = id;
+                SqlCommand command = new($"INSERT INTO {tableName} VALUES (@title, @start, @end, @price, @description);", connection);
 
                 command.Parameters.Add("@title", SqlDbType.VarChar);
                 command.Parameters["@title"].Value = title;
@@ -99,7 +97,6 @@ void uploadVips(string tableName) {
                 string firstName = values[0];
                 string lastName = values[1];
                 string budget = values[2];
-                //decimal.TryParse(values[2], out decimal budget, CultureInfo.InvariantCulture);
 
                 Console.WriteLine($"{firstName} - {lastName} - {budget}");
 

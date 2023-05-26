@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 
-296548173
+2649751061
 
-31238547740
+61287971523
 199509270875
-DayplanWindow.xaml;UserWindow.xaml;
+UserWindow.xaml;Windows\DayPlanWindow.xaml;
 
 False
 

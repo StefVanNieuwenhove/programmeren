@@ -1,4 +1,5 @@
 ﻿using Feest.Domain.DTO;
+using Feest.Domain.Exceptions;
 using Feest.Domain.Interface;
 using System;
 using System.Collections.Generic;
@@ -15,16 +16,28 @@ namespace Feest.Domain.Managers {
         }
 
         public List<UserDTO> GetAllUsers() {
-            return _userRepo.GetAllUsers().Select(x => new UserDTO(x.Id, x.FirstName, x.LastName, x.Budget)).OrderBy(x => x.FirstName).ToList();
+            try {
+                return _userRepo.GetAllUsers().Select(x => new UserDTO(x.Id, x.FirstName, x.LastName, x.Budget)).OrderBy(x => x.FirstName).ToList();
+            } catch (UserException ex) {
+                throw new UserException("UserManager - GetAllUsers", ex);
+            }
         }
 
         public UserDTO GetUserById(int id) {
-            var user = _userRepo.GetUserById(id);
-            return new UserDTO(user.Id, user.FirstName, user.LastName, user.Budget);
+            try {
+                var user = _userRepo.GetUserById(id);
+                return new UserDTO(user.Id, user.FirstName, user.LastName, user.Budget);
+            } catch (UserException ex) {
+                throw new UserException("UserManager - GetUserById", ex);
+            }
         }
 
         public List<UserDTO> SearchUser(string username) {
-            return _userRepo.GetUserByName(username).Select(x => new UserDTO(x.Id, x.FirstName, x.LastName, x.Budget)).OrderBy(x => x.FirstName).ToList();
+            try {
+                return _userRepo.GetUserByName(username).Select(x => new UserDTO(x.Id, x.FirstName, x.LastName, x.Budget)).OrderBy(x => x.FirstName).ToList();
+            } catch (UserException ex) {
+                throw new UserException("UserManager - SearchUser", ex);
+            }
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Feest.Domain.DTO;
+using Feest.Presentation.EventsArg;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,14 +21,26 @@ namespace Feest.Presentation {
     public partial class UserWindow : Window {
 
         public event EventHandler<string> SearchingUser;
-        public event EventHandler<UserDTO> CreatingDayPlan;
+        public event EventHandler<UserEventArgs> CreatingDayPlan;
+        public event EventHandler<UserDTO> ReadingDayPlan;
 
         public List<UserDTO> Users {
             set => UsersList.ItemsSource = value;
             get => UsersList.ItemsSource as List<UserDTO>;
         }
 
+        public List<DayPlanDTO> DayPlans {
+            set => DayPlanList.ItemsSource = value;
+            get => DayPlanList.ItemsSource as List<DayPlanDTO>;
+        }
+
+        public List<DateTime> DatesDayPlan {
+            get => CboDates.ItemsSource as List<DateTime>;
+            set => CboDates.ItemsSource = value;
+        }
+
         private UserDTO _selectedUser { get; set; }
+        private DateTime _selectedDate { get; set; }
 
         public UserWindow() {
             InitializeComponent();
@@ -39,6 +52,7 @@ namespace Feest.Presentation {
             if (_selectedUser != null) {
                 string output = $"Id: {_selectedUser.Id}\n" + $"Firstname: {_selectedUser.FirstName}\n" + $"Lastname: {_selectedUser.LastName}\n" + $"Budget: {_selectedUser.Budget}\n";
                 UserInfoTextBox.Text = output;
+                ReadingDayPlan?.Invoke(this, _selectedUser);
             }
         }
 
@@ -46,22 +60,39 @@ namespace Feest.Presentation {
            SearchingUser?.Invoke(this, SearchUserTextBox.Text); 
         }
 
-        private void MakeDayPlanButton_Click(object sender, RoutedEventArgs e) {
-            if (_selectedUser != null) {
-                CreatingDayPlan?.Invoke(this, _selectedUser);
-            } else MessageBox.Show("Select an user to create a dayplan");
+        private void UsersList_MouseDoubleClick(object sender, MouseButtonEventArgs e) {
+            if (!DatesDayPlan.Contains(_selectedDate)) {
+                MessageBox.Show("Pick a date!", "PICK A DATE", MessageBoxButton.OK, MessageBoxImage.Error);
+            } 
+            else {
+                MessageBoxResult result = MessageBox.Show($"Do you want to create a dayplay for {_selectedUser}\n on the date: {_selectedDate.ToShortDateString()}?", "Create Dayplan", MessageBoxButton.YesNo, MessageBoxImage.Information, MessageBoxResult.Yes);
+
+                switch (result) {
+                    case MessageBoxResult.Yes:
+                        CreatingDayPlan?.Invoke(this, new UserEventArgs(_selectedUser, _selectedDate));
+                        break;
+                    case MessageBoxResult.No:
+                        break;
+                }
+            }
         }
 
-        private void UsersList_MouseDoubleClick(object sender, MouseButtonEventArgs e) {
-           MessageBoxResult result = MessageBox.Show($"Do you want to create a dayplay for ${_selectedUser}?", "Create Dayplan", MessageBoxButton.YesNo, MessageBoxImage.Information, MessageBoxResult.Yes);
+        private void UsersList_KeyDown(object sender, KeyEventArgs e) {
+            if (e.Key == Key.Enter && _selectedDate != null) {
+                MessageBoxResult result = MessageBox.Show($"Do you want to create a dayplay for {_selectedUser}\n on the date: {_selectedDate.ToShortDateString()}?", "Create Dayplan", MessageBoxButton.YesNo, MessageBoxImage.Information, MessageBoxResult.Yes);
 
-            switch (result) {
-                case MessageBoxResult.Yes:
-                    CreatingDayPlan?.Invoke(this, _selectedUser);
-                    break;
-                case MessageBoxResult.No:
-                    break;
+                switch (result) {
+                    case MessageBoxResult.Yes:
+                        CreatingDayPlan?.Invoke(this, new UserEventArgs(_selectedUser, _selectedDate));
+                        break;
+                    case MessageBoxResult.No:
+                        break;
+                }
             }
+        }
+
+        private void CboDates_SelectionChanged(object sender, SelectionChangedEventArgs e) {
+            _selectedDate = (DateTime)CboDates.SelectedItem;
         }
     }
 }

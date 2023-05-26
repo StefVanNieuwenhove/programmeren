@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace Feest.Domain.DTO {
     public class EventDTO {
 
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string Title { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public decimal Price { get; set; }
         public string Description { get; set; }
 
-        public EventDTO(string id, string title, DateTime startDate, DateTime endDate, decimal price, string description) {
+        public EventDTO(int id, string title, DateTime startDate, DateTime endDate, decimal price, string description) {
             Id = id;
             Title = title;
             StartDate = startDate;
@@ -26,8 +26,6 @@ namespace Feest.Domain.DTO {
         public string ShowDetails() {
             return $"Id: {Id}\n" +
                    $"Title: {Title}\n" +
-                   $"Start: {StartDate}\n" +
-                   $"End: {EndDate}\n" +
                    $"Price: {Price:C2} \n" +
                    $"Description: {Description}\n";
 

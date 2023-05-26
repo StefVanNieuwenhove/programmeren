@@ -2,17 +2,11 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="DayplanWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="UserWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="DayplanWindow.xaml">
-      <SubType>Designer</SubType>
-    </Page>
     <Page Update="UserWindow.xaml">
       <SubType>Designer</SubType>
     </Page>

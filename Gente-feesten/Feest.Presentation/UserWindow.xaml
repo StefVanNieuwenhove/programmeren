@@ -7,22 +7,39 @@
         mc:Ignorable="d"
         Title="Gentse feesten"  
         Width="{x:Static SystemParameters.PrimaryScreenWidth}"  
-        Height="{x:Static SystemParameters.PrimaryScreenHeight}"  
+        Height="{x:Static SystemParameters.PrimaryScreenHeight}" 
         WindowState="Maximized">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <StackPanel Grid.Column="0">
-            <Label Content="Search user" />
-            <TextBox x:Name="SearchUserTextBox" TextChanged="SearchUserTextBox_TextChanged" Margin="5 0 0 0"/>
-            <Label Content="Overview user(s)" />
-            <ListView x:Name="UsersList" SelectionChanged="UsersList_SelectionChanged" MouseDoubleClick="UsersList_MouseDoubleClick" Height="994" />
-        </StackPanel>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0">
+                <Label Content="Search user" />
+                <TextBox x:Name="SearchUserTextBox" TextChanged="SearchUserTextBox_TextChanged" Margin="5 0 0 0"/>
+            </StackPanel>
+            <StackPanel  Grid.Row="1">
+                <Label Content="Overview user(s)" />
+                <ListView x:Name="UsersList" SelectionChanged="UsersList_SelectionChanged" MouseDoubleClick="UsersList_MouseDoubleClick" KeyDown="UsersList_KeyDown" ScrollViewer.CanContentScroll="True"/>
+            </StackPanel>
+            <StackPanel Grid.Row="2">
+                <Label Content="User details"  />
+                <TextBlock x:Name="UserInfoTextBox" Height="100" Margin="5 0 0 0"/>
+            </StackPanel>
+        </Grid>
         <StackPanel Grid.Column="1" Margin="5 0 0 0">
-            <Label Content="User details"  />
-            <TextBlock x:Name="UserInfoTextBox" />
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Pick a date:"/>
+                <ComboBox x:Name="CboDates" HorizontalAlignment="Stretch" SelectionChanged="CboDates_SelectionChanged" Width="100"/>
+            </StackPanel>
+            <Label Content="Overview dayplan(s)"/>
+            <ListView x:Name="DayPlanList"/>
         </StackPanel>
     </Grid>
 </Window>
